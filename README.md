@@ -1,4 +1,4 @@
-## This is a simple PowerShell script that is used to log and cleanup files listed from year and month in the format (yyyy/MM)
+# This is a simple PowerShell script that is used to log and cleanup files listed from year and month in the format (yyyy/MM)
 ## INSTRUCTIONS 
 1. Open PowerShell as administrator (Windows + X)
 2. Navigate to the desired directory with the command (i.e cd C:\path\to\your\folder)
